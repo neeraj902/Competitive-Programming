@@ -1,7 +1,7 @@
 #include<bits/stdc++.h>
 using namespace std;
 int m=1000000007;
-int main()j
+int main()
 {
 	int n;
 	cin>>n;
