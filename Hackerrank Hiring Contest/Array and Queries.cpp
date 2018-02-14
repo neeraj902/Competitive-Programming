@@ -2,7 +2,7 @@
 using namespace std;
 int m=1000000007;
 int main()
-{j
+{
 	int n;
 	cin>>n;
 	int arr[n];
