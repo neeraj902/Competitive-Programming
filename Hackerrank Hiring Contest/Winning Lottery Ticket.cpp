@@ -3,7 +3,7 @@ using namespace std;
 
 int main()
 {
-	int n;j
+	int n;
 	cin>>n;
 	int arr[n];
 	int county[1024]={0};
